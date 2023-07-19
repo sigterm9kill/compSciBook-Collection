@@ -1,0 +1,43 @@
+Do Work - START ********************
+Val not inserted:  22
+Val not inserted:  20
+Val not inserted:  15
+Tree count is 14
+Tree contents are: 
+5
+10
+15
+17
+20
+22
+30
+33
+44
+45
+48
+50
+52
+60
+
+Delete Count is 6
+Tree count is 8
+Tree contents are: 
+30
+33
+44
+45
+48
+50
+52
+60
+
+isIn reports this is in the list: 30
+isIn reports this is in the list: 44
+isIn reports this is in the list: 48
+isIn reports this is in the list: 50
+isIn reports this is in the list: 52
+isIn reports this is in the list: 60
+
+The cleared tree status:  count = 0
+The cleared tree contents follow:
+Do Work - END   ********************
